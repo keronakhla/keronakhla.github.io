@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://keronakhla.github.io
+title: Kerolos Nakhla
+email: keronakhla@gmail.com
+author: Kerolos Nakhla
+description: My personal portfolio and blog.
+paginate: 5
+google_analytics: 
