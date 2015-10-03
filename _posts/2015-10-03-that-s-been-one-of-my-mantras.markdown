@@ -1,7 +1,6 @@
 ---
 published: true
-title: THAT'S BEEN ONE OF MY MANTRAS
+title: That's Been One of my Mantras
 layout: post
 ---
-"THAT'S BEEN ONE OF MY MANTRAS - FOCUS AND SIMPLICITY. SIMPLE CAN BE HARDER THAN COMPLEX: YOU HAVE TO WORK HARD TO GET YOUR THINKING CLEAN TO MAKE IT SIMPLE. BUT IT'S WORTH IT IN THE END BECAUSE ONCE YOU GET THERE, YOU CAN MOVE MOUNTAINS."
-                                             -- STEVE JOBS
+That's been one of my mantras -  focus and simplicity. Simple can be harder than complex: you have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains -- Steve Jobs 
