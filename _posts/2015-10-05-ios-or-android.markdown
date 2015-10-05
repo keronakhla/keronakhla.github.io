@@ -37,6 +37,6 @@ Knowing which features your app is going to heavily employ will help you target 
 
 Which category does your app fall under? For millennial consumers the most popular categories on iOS are sports, health and fitness, followed by music and media. On Android, however, the most popular are personalization, books, and entertainment.
 
-in conclusion, go where your customers are, what is more important than deciding on which platform you should start with is getting more data and statistics about your target market and how they use the features that you plan on having. 
+in conclusion, go where your customers are, what is more important than deciding on which platform you should start with is getting more data and statistics about your target market and how they use the features that you intend on having. 
 
 "Get outside of the building"
